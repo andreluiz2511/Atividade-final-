@@ -1,0 +1,13 @@
+Body{
+background-color: rgb(5, 23, 83);
+}
+h1,
+h2,
+h3 {
+    color: white;
+}
+img{
+    border:solid rgb(97, 129, 155) 15px;
+
+}
+h1{text-align: center;}
